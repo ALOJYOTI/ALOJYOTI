@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ALOJYOTI
-- 👀 I’m interested in networking automation and cloud
+- 👀 I’m interested in networking automation and cloud computing
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on cisco networking, cloud networking, NFV and automation, problem solving, python programming
 - 📫 How to reach me via my linkedin id: www.linkedin.com/in/alojyotimistry
